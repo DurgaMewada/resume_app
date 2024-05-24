@@ -18,7 +18,7 @@ class _SkillsState extends State<Skills> {
         backgroundColor: mainColor,
         centerTitle: true,
         title: Text(
-          'Personal Information',
+          'Skills',
           style: TextStyle(
             color: Colors.white,
             fontSize: 20,

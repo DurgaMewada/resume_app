@@ -26,6 +26,6 @@ class Approutes{
     '/ref': (context) => Reference(),
     '/pro': (context) => Projects(),
     '/language': (context) => Languages(),
-    '/pdf': (context) => Pdf(),
+    '/pdf': (context) => PdfScreen(),
   };
   }
