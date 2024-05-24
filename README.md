@@ -22,7 +22,7 @@
    <img src = "https://github.com/DurgaMewada/resume_app/assets/149373536/4a36cbea-1f09-426e-ad4f-e2ae198faff5)" width=22% height=35% >
   <img src = "https://github.com/DurgaMewada/resume_app/assets/149373536/e6dbaa3f-2ded-4a9b-a644-fe091d2fa8a7" width=22% height=35% >
 
-
+<img src = "https://github.com/DurgaMewada/resume_app/assets/149373536/622cffc9-46ae-498f-9da8-916a0f147ee3" width=22% height=35% >
   <video height="450" src="https://github.com/DurgaMewada/resume_app/assets/149373536/db026506-7b41-4f87-ae49-b499142546a9"/>
 </p> 
 
