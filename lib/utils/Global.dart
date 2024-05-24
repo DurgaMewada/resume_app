@@ -1,0 +1,26 @@
+import 'package:flutter/material.dart';
+String name='';
+String add='';
+String email='';
+String phone='';
+String profession='';
+String gender ='female';
+String school ='';
+String course='';
+String marks='';
+String startyear='';
+String endyear='';
+String companyName='';
+String job='';
+String startDate='';
+String endDate='';
+String details='';
+String refName='';
+String refJob='';
+String refCompany='';
+String refEmail='';
+String refPhone='';
+String projectTitle ='';
+String projectDetail='';
+String objective='';
+
